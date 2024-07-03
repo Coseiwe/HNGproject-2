@@ -20,8 +20,8 @@ User List File: Input file (user_list.txt) containing usernames and associated g
 Usage
 Clone the Repository:
 
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Coseiwe/HNGproject-2.git
+cd HNGproject-2
 
 Set Permissions:
 Ensure create_users.sh has executable permissions:
